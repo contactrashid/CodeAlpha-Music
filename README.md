@@ -19,7 +19,7 @@ A sleek and responsive music player built with HTML, CSS, and JavaScript. Stream
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)
-- 
+-  
 ## 🧪 Usage
 
 1. Open the app in your browser  
